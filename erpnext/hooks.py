@@ -1,5 +1,5 @@
 app_name = "erpnext"
-app_title = "ERPNext"
+app_title = "CUE"
 app_publisher = "Frappe Technologies Pvt. Ltd."
 app_description = """ERP made simple"""
 app_icon = "fa fa-th"
@@ -14,7 +14,7 @@ add_to_apps_screen = [
 	{
 		"name": "erpnext",
 		"logo": "/assets/erpnext/images/erpnext-logo-blue.png",
-		"title": "ERPNext",
+		"title": "CUE",
 		"route": "/app/home",
 		"has_permission": "erpnext.check_app_permission",
 	}
